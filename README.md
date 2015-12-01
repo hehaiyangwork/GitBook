@@ -19,8 +19,3 @@ GitBook支持输出多种文档格式，如：
 
 - GitBook项目官网：<http://www.gitbook.io>
 - GitBook Github地址：<https://github.com/GitbookIO/gitbook>
-
-## 本项目地址
-
-- 仓库：https://github.com/wwq0327/gitbook-zh
-- 在线阅读：http://wanqingwong.com/gitbook-zh/
